@@ -93,3 +93,9 @@ Predicted rental prices for new data points:
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+## 🙏 Acknowledgments
+
+A big thank you to Teacher Derrick Park for his guidance throughout the career, and to my classmates for being part of this journey.
+

@@ -3,6 +3,7 @@
 ## Overview
 This project predicts housing rental prices based on various features such as the number of bedrooms, square footage, and location. It processes raw Craigslist data, cleans it, and builds machine learning models to make predictions. The models tested include **Linear Regression** and **Random Forest Regressor**.
 
+To check the full presentation + dashboard link refer to the file vancouver_rentals_presentation.pdf
 ---
 
 ## 🚀 Getting Started
